@@ -117,11 +117,11 @@
     @keyframes msg-5 {
       0% {
         opacity: 0;
-        transform: translate(10px, 271px);
+        transform: translate(10px, 245px);
       }
       100% {
         opacity: 1;
-        transform: translate(10px, 264px);
+        transform: translate(10px, 240px);
       }
     }
     @keyframes msg-6 {
@@ -226,7 +226,7 @@
 
   </g>
 
-  <!-- Hi  -->
+  <!-- Hi, I'm Sigrid Jin -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="133" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm Jimmy</text>
@@ -277,9 +277,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="400" height="66" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I like working on computers.</text>
-    <text x="15" y="50">I'm interested in backend and mobile things.</text>
+    <rect width="400" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I like working with computer things.</text>
+    <text x="15" y="50">I'm intersted in backend and mobile side.</text>
   </g>
 
   <!-- typing 4 -->
@@ -300,9 +300,10 @@
 
   </g>
 
+  <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="453" height="67" rx="18.0355" class="bubble" />
-    <text x="15" y="27">You can find me on</text>
+    <text x="15" y="27">You can find me on </text>
     <text x="15" y="50">https://www.linkedin.com/in/seok-han-366205150/</text>
   </g>
 
@@ -321,11 +322,12 @@
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
+
   </g>
 
   <!-- Thanks -->
   <g transform="translate(10, 264)" class="msg-5">
-    <rect width="260" height="42" rx="18.0355" class="bubble" />
+    <rect width="339" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Have a good Tuesday! <tspan class="emoji">👋</tspan></text>
   </g>
 </svg>
