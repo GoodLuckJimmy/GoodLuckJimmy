@@ -278,8 +278,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="400" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I like working with computer things.</text>
-    <text x="15" y="50">I'm intersted in backend and mobile side.</text>
+    <text x="15" y="27">I like working on computers</text>
+    <text x="15" y="50">I'm intersted in backend and mobile things.</text>
   </g>
 
   <!-- typing 4 -->
